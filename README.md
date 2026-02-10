@@ -1,4 +1,4 @@
-# Github space app - UI !
+# Github Space App - UI !
 
 
 <img width="1882" height="962" alt="image" src="https://github.com/user-attachments/assets/98bd6bc7-e4b4-4fe9-ba3d-baf1e08c399d" />
